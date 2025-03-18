@@ -5,7 +5,7 @@
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=42dot+Sans&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello%2C+World!+3D+%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C+0%EA%B3%BC+1%EC%9D%98+%EC%84%B8%EA%B3%84%EB%A1%9C" alt="Typing SVG" /></a>
 <br>
-안녕하세요, 3D 애니메이터에서 개발자가 된 <strong>이상훈</strong>입니다.
+안녕하세요, 모르는것을 찾는걸 좋아하는 개발자 <strong>이상훈</strong>입니다.
 
  
 
