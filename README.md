@@ -44,8 +44,8 @@
 | **작업 기간**        | **프로젝트**                     | **역할**  |  **Repository**  | **비고**|
 |----------------------|----------------------------------|-----------|-------|-----------|
 | 25.01.16 ~ 25.03.06  | [Shelfy] 독서 기록 앱 프로젝트     | 독서 기록 기능 | [🔗Shelfy](https://github.com/ekkang2/shelfy_team_project)  |[시연영상](https://youtu.be/hv4Yzksg0qY?si=yw-tCRp5E0SHNDwS)|
-| 24.11.16~24.12.26    | [Plantry] 그룹웨어 웹 프로젝트    | 팀장, 프로젝트 설정, 회원 기능 | [🔗Plantry](https://github.com/subin3578/antwork) |[시연영상](https://www.youtube.com/watch?v=gYq8mfhy5Bk)|
-| 24.10.18~24.11.15    | [LotteOn] 쇼핑몰 웹 프로젝트          | 장바구니, 주문 | [🔗LotteOn](https://github.com/subin3578/TeamProject-LotteOn4) |[시연영상](https://www.youtube.com/watch?v=rM2Cj0PMg1Q&t=350s)|
+| 24.11.16~24.12.26    | [Plantry] 그룹웨어 웹 프로젝트    | 팀장, 프로젝트 설정, 회원 기능 | [🔗Plantry](https://github.com/lsh908400/antwork) |[시연영상](https://www.youtube.com/watch?v=gYq8mfhy5Bk)|
+| 24.10.18~24.11.15    | [LotteOn] 쇼핑몰 웹 프로젝트          | 장바구니, 주문 | [🔗LotteOn](https://github.com/lsh908400/shoppingmall) |[시연영상](https://www.youtube.com/watch?v=rM2Cj0PMg1Q&t=350s)|
 | 24.09.27~24.10.04    | [farmstory] 농작물 거래 웹 프로젝트  | 회원 기능 | [🔗farmstory](https://github.com/ywha0206/FarmStory) ||
 
 
