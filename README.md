@@ -115,9 +115,11 @@
 <div align="center">
 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9084)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9084&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" height="196" />
+[![lsh9084의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=lsh9084)](https://github.com/anuraghazra/github-readme-stats)
+[![lsh908400의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=lsh908400)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9084&layout=compact" height="196" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsh908400&layout=compact" height="196" />
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 <p>sanghun1101088@gamil.com</p>
