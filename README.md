@@ -31,9 +31,9 @@
 </br>
 
 ## About Me
-- 백엔드 개발자를 꿈꾸는 예비개발자입니다.
-- Java를 중심으로 개발하며, 지금은 Flutter를 배우고 있습니다.
-- 독서 기록 앱 프로젝트 [ [Shelfy](https://github.com/ekkang2/shelfy_team_project) ] 를 진행 중입니다.
+- 백엔드 개발자 이상훈입니다.
+- React, ThymeLeaf, VanilaJs FE
+- Node Js, Spring Boot BE
 </br>
 
 
