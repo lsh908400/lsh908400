@@ -19,7 +19,7 @@
   
 | **이메일** | **프로젝트 저장소** | **이력서 사이트** |
 |:----------:|:----------:|:----------:|
-| <a href="mailto:sanghun1101088@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://github.com/lsh908400?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://your-resume-site-url-here.com"><img src="https://img.shields.io/badge/Resume-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a> |
+| <a href="mailto:sanghun1101088@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://github.com/lsh908400?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://your-resume-site-url-here.com"><img src="https://img.shields.io/badge/Portfolio-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a> |
 
 
 
