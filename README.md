@@ -5,7 +5,7 @@
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=42dot+Sans&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello%2C+World!+3D+%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C+0%EA%B3%BC+1%EC%9D%98+%EC%84%B8%EA%B3%84%EB%A1%9C" alt="Typing SVG" /></a>
 <br>
-안녕하세요, 3D 애니메이터에서 개발자가 된 <strong>박연화</strong>입니다.
+안녕하세요, 3D 애니메이터에서 개발자가 된 <strong>이상훈</strong>입니다.
 
  
 
@@ -17,9 +17,10 @@
 
 
   
-| **이메일** | **포트폴리오** | **기술 블로그** | **프로젝트 저장소** | **유튜브** |
+| **이메일** | **프로젝트 저장소** |
 |:----------:|:-------------:|:--------------:|:------------------:|:--------------:|
-| <a href="mailto:ppyyhh3285@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/16fb89c79cfe807b8c64f767e3b65f6b"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://dev-yeonwha.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/ywha0206?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://www.youtube.com/@parkparkk?si=GpKZ27_qY297vJd3"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
+| <a href="mailto:sanghun1101088@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a 
+| <a href="https://github.com/lsh908400?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | 
 
 
 <br/>
