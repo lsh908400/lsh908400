@@ -19,8 +19,8 @@
   
 | **이메일** | **프로젝트 저장소** |
 |:----------:|:----------:|
-| <a href="mailto:sanghun1101088@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> |
-|<a href="https://github.com/lsh908400?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> |
+| <a href="mailto:sanghun1101088@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> |<a href="https://github.com/lsh908400?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a>
+| |
 
 
 <br/>
